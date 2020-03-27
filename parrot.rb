@@ -1,5 +1,5 @@
-prettybird = "Pretty bird!"
+blank = "Pretty bird!"
 
-def parrot(prettybird="Squawk!")
-  puts "#{prettybird}"
+def parrot(blank="Squawk!")
+  puts "#{blank}"
 end
